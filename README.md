@@ -1,7 +1,10 @@
-![](/banner/Portfolio.png)
+![ReadMe Banner](/banner/Github-Visual-Assets.png)
 
-# github-visual-assets
-Visuel Assets for github readme
+# Github Visual Assets
+
+This repository contains all the visual assets used in my Github profile and repositories.
+
+## Demo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris et suscipit justo, id malesuada erat. Sed elementum auctor risus, ac maximus tortor varius ut. Nulla tincidunt vel augue sed bibendum. Vivamus tristique commodo risus, ut tincidunt nisi. Etiam vel semper turpis. Aliquam magna metus, aliquam vitae tincidunt vitae, congue malesuada leo. Phasellus mauris sem, tempus sed dolor nec, condimentum pretium nunc. Nullam vehicula felis purus, at finibus felis condimentum vel. Donec gravida blandit ipsum, imperdiet facilisis nisl imperdiet et. Nam augue ex, mattis sit amet pretium nec, viverra a nisi. Curabitur in ipsum vel urna volutpat mattis.
 
